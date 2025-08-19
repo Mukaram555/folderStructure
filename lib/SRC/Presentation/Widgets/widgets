@@ -1,0 +1,6 @@
+Auth
+    login
+        controller folder
+        login.dart
+    components
+        all the common widgets used in the auth.

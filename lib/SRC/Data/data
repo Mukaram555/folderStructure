@@ -1,0 +1,15 @@
+resources
+    colors
+        light theme color
+            color palate
+        dark theme color
+    styles
+    text styles
+    theme
+        light theme
+        dark theme
+
+
+
+repositories
+    all the repos used in the app

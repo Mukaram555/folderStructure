@@ -1,13 +1,14 @@
 resources
     colors
         light theme color
-            color palate
+            color palate.dart
         dark theme color
     styles
     text styles
     theme
         light theme
         dark theme
+
 
 
 
